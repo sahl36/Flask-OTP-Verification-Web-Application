@@ -12,7 +12,7 @@ This is a simple web application built using Flask that allows users to register
 - **Logout:** Users can log out, and their session will be cleared.
 
 ## Technologies Used
-- **Frontend:** HTML, CSS, Bootstrap
+- **Frontend:** HTML, CSS, Bootstrap, javascript
 - **Backend:** Python, Flask
 - **Database:** SQLite
 - **Email Service:** Gmail SMTP
