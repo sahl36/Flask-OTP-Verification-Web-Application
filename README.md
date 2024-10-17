@@ -73,15 +73,15 @@ This is a simple web application built using Flask that allows users to register
 ## Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/Login.png)
 
 ### Registration Page
-![Registration Page](screenshots/register.png)
+![Registration Page](screenshots/Register.png)
 
 ### OTP Verification
 ![OTP Verification](screenshots/Verify_otp.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 
